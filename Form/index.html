@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+    <form action="">
+        <h1 class="mainheading">Payment Form</h1>
+        <hr>
+        <h2>Contact Information</h2>
+        <p>Required fields are followed by *</p>
+        <p>Name: * <input type="text" name="name" required placeholder="Rahul Khushalani"></p>
+        <fieldset>
+            <legend>Gender: *</legend>
+        <p>
+            Male <input type="radio" name="gender" id="male" required>
+            Female <input type="radio" name="gender" id="female" required>
+        </p>
+        </fieldset>
+        <p>Address <textarea name="address" id="address" cols="100" rows="7" placeholder="1 GHA 36, Housing Board, Shastri Nagar, Jaipur(Rajasthan)"></textarea></p>
+        <P>Email: <input type="email" name="email" placeholder="rahul@gmail.com"></P>
+        <p>Pincode <input type="number" name="pincode" id="pincode" placeholder="302016"></p>
+        <hr>
+        <h2>Payment Information</h2>
+        <p>Card Type: *
+            <select name="card_type" id="card_type" required>
+                <option value="">--Select A Card Type--</option>
+                <option value="visa">Visa</option>
+                <option value="mastercard">Mastercard</option>
+                <option value="rupay">Rupay</option>
+            </select>
+        </p>
+        <p>Card Number: *<input type="number" name="card_numbers" required placeholder="1000245785"></p>
+        <p>
+            Expiration Date: *<input type="date" name="expiration_date" id="expiration_date" required>
+        </p>
+        <p>CVV: *<input type="password" name="cvv" id="cvv" required placeholder="112"></p>
+        <input type="submit" value="Pay Now">
+
+
+
+    </form>
+</div>    
+</body>
+</html>
