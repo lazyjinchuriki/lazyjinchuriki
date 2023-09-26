@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings, digital explorer!<br>I'm Rahul Khushalani, a Frontend Developer.<br>I craft stunning user interfaces and breathe life into web experiences.<br>I blend design artistry with code precision.<br>I find humor in programming—every bug is a "feature."<br>Join me on this web adventure. 🚀✨<br>
+Greetings, digital explorer!<br>I'm <b>Rahul Khushalani</b>, a Frontend Developer.<br>I craft stunning user interfaces and breathe life into web experiences.<br>I blend design artistry with code precision.<br>I find humor in programming—every bug is a "feature."<br>Join me on this web adventure. 🚀✨<br>
 
 
 ## 🌐 Socials:
@@ -12,18 +12,6 @@ Greetings, digital explorer!<br>I'm Rahul Khushalani, a Frontend Developer.<br>I
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lazyjinchuriki&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lazyjinchuriki&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lazyjinchuriki&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lazyjinchuriki&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/lazyjinchuriki) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
