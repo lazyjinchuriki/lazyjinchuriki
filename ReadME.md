@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings, digital explorer!<br>I'm <b>Rahul Khushalani</b>, a Frontend Developer.<br>I craft stunning user interfaces and breathe life into web experiences.<br>I blend design artistry with code precision.<br>I find humor in programming—every bug is a "feature."<br>Join me on this web adventure. 🚀✨<br>
+Greetings, digital explorer!<br>I'm <b>Rahul Khushalani</b>, a Full-Stack Developer.<br>I craft stunning user interfaces and breathe life into web experiences.<br>I blend design artistry with code precision.<br>I find humor in programming—every bug is a "feature."<br>Join me on this web adventure. 🚀✨<br>
 
 
 ## 🌐 Socials:
